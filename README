@@ -1,0 +1,4 @@
+#installer 
+sudo dpkg -i http.deb
+
+#vous retrouver l'application dans /opt/http
